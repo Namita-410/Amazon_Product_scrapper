@@ -21,7 +21,7 @@ pip install requests beautifulsoup4
 
 **Run the scraper:**
 ```bash
-python amazon_scraper.py
+python amazon_laptop_scrape.py
 ```
 
 ## Output
